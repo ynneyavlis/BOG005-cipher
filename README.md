@@ -434,6 +434,8 @@ Organización del Trabajo:
   poco a lo largo del -_bootcamp_.
 * [Guía para Cifrado César](https://docs.google.com/presentation/d/e/2PACX-1vTQ7-8LZDHrT4Y6AOBN72Nkfz1eJAeseBHpcHX8BSq0aFCFoZmuMjluMeyFNgK9ISKxTz0H03yGfJiT/pub?start=false&loop=false&delayms=60000)
 
+Únete al canal de Slack **#project-cipher**
+
 ## 9. Checklist
 
 Esta sección está para ayudarte a llevar un control de lo que vas completando.
