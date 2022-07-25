@@ -1,0 +1,54 @@
+body{ background-color: #5C607E;
+height: 100vh;
+display: flex;
+justify-content: center;
+font-family: 'Josefin Sans', sans-serif;
+color: white;}
+
+#cuadrocentral{
+    text-align: center;
+    margin-top: 20px;
+    width: 500px;
+    height: 650px;
+    padding: 36px;
+    box-shadow: 8px 8px 35px 0px rgb(0 0 0 / 75%);
+    border-radius: var(--borde-redondo);}
+
+#logo {
+    height: 120px;
+    width: 300px;}
+
+.boton1{
+    border-radius: 5px;
+    padding: 10px 80px;
+    color: white;
+    background-color: #F59B03;
+    text-decoration: none;}
+.boton1:hover{ background:#AC6D04 ;}
+
+.boton2{
+    border-radius: 5px;
+    padding: 10px 70px;
+    color: white;
+    background-color: #31A9ED;
+    text-decoration: none;}
+.boton2:hover{ background:#1C7DB4 ;}
+
+
+#desplazamiento{
+       height: 30px;
+       width: 60px;}
+
+#resultado{
+    height: 60px;
+    width: 300px;}
+#mensaje{
+    height: 60px;
+    width: 300px;}
+
+
+
+
+
+
+
