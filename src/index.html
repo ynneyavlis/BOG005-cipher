@@ -13,18 +13,23 @@
     <div id="cuadrocentral">
        <img id="logo" src="img/Logo.png"><br>
        <hr><br>
-       Escribe tu mensaje secreto, indica el número <br>de desplazamiento que desea en su texto a continuación dale<br><br>
-       <b> CIFRAR O DESCIFRA </b> <br><br>dependiendo de tu necesidad.<br> Recuerda solo debe ser letras. <br><br>
+       Escribe tu mensaje secreto, indica el número <br>de desplazamiento que deseas en tu texto. <br>A continuación dale<br><br>
+       <b> CIFRAR O DESCIFRAR </b> <br><br>dependiendo de tu necesidad.<br> Recuerda ingresa letras. <br><br>
        <hr><br>
-       <input id="mensaje" placeholder="Ingrese el texto" type="text" name="text"> <br><br>
-      <div id="ingresar"> Ingresar cantidad de desplazamientos </div> <br>
-           <input id="desplazamiento" type="number"> <br><br><br>
+       <input id="texto" placeholder="Ingrese el texto" type="text" name="text"> 
+
+      <div id="cubo">
+           <div id="tex"> Ingresar cantidad <br>de desplazamientos </div>
+           <input id="desplaza" min="1" type="number"> 
+      </div>
+    
+          <div id="resultado"></div><br> 
 
        <div id="botones">
-         <a href="" class="boton1">Cifrar</a>
-         <a href="" class="boton2">Descifrar</a><br><br><br>
+         <button  id="boton1"><b>CIFRAR</b></button>
+         <button id="boton2"><b>DESCIFRAR</b></button><br><br>
         </div>
-     <input id="resultado" spellcheck="false" type="text" name="text"> <br>
+    
   </div>
 
       
